@@ -1,7 +1,20 @@
 body{
-  	margin: 0;
-  	padding: 0;
-   	background-image: url(https://raw.githubusercontent.com/muhdhevaer63/Dheva/master/Hobi%20Dheva%2011.7.png);
-	height: 100%;
-	width: 100%}
-.p{font-family:"Verdana" Sans-Serif}
+   margin: 0;
+   padding: 0;
+   background-image: url(https://raw.githubusercontent.com/muhdhevaer63/Dheva/master/Hobi%20Dheva%2011.7.png);
+background-position: center;
+background-repeat: 
+height: 70%;
+width: 70%
+}
+
+.box{
+	background: ;
+	padding: 40px;
+	margin:80px;
+	background-image: url();
+}
+.p{
+
+	font-family:"Verdana" Sans-Serif
+}
